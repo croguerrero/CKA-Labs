@@ -1,6 +1,6 @@
 # Building a Kubernetes 1.23 Cluster with Kubeadm
 
-<p align="center"><img src="resources\images\control-plane.jpg"/></p>
+<p align="center"><a href="resources\KC.md"><img src="images\control-plane.jpg"/></p>
 
 * This lab will allow you to practice the process of building a new Kubernetes cluster. You will be given a set of Linux servers, and you will have the opportunity to turn these servers into a functioning Kubernetes cluster. This will help you build the skills necessary to create your own Kubernetes clusters in the real world.
 
